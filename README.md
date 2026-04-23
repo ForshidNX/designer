@@ -8,7 +8,8 @@ Update & Upgrade Packages pkg update && pkg upgrade
 Install Node.js pkg install nodejs 
 🟢 Step 3: 
 Install Git pkg install git
-
+33a7172865230d1178e745825651904af5d3a963
+33a7172865230d1178e745825651904af5d3a963
 
 🟢 Step 4 (Opt
 ional): Check Node.js Version node -v 
